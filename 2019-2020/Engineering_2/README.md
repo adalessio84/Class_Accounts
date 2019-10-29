@@ -8,4 +8,3 @@ Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El P
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Alden D. | [adent11](https://github.com/adent11) | Lorem Ipsum
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
-Andrew D. | [adalessio84](https://github.com/adalessio84) | I work for ENSCO Rail Inc.
